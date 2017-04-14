@@ -1,3 +1,9 @@
+Dependency from yii2-bootstrap is removed here!
+===============================================
+
+Note that widget will rely on overriden yii\bootstrap\BootstrapPluginAsset!
+
+ 
 Bootstrap DateTimePicker Widget for Yii2
 ========================================
 [![Latest Version](https://img.shields.io/github/tag/2amigos/yii2-date-time-picker-widget.svg?style=flat-square&label=release)](https://github.com/2amigos/yii2-date-time-picker-widget/tags)
